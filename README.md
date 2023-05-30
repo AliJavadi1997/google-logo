@@ -1,6 +1,6 @@
 # google-logo-with-single-div
 
-Creating the Google logo with a single <div> tag is a coding challenge that demonstrates the creative use of CSS (Cascading Style Sheets) to achieve a complex design using minimal markup. The goal is to replicate the recognizable Google logo by applying CSS styles to a single <div> element, without the need for additional HTML elements.
+Creating the Google logo with a single div tag is a coding challenge that demonstrates the creative use of CSS (Cascading Style Sheets) to achieve a complex design using minimal markup. The goal is to replicate the recognizable Google logo by applying CSS styles to a single div element, without the need for additional HTML elements.
 
 ## goal
 
